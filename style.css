@@ -12,13 +12,22 @@
 }
 
 /* css variables */
-:root {
+/* :root {
   --white: #fff;
   --dark-gray: #ababab;
   --light-gray: #808080;
   --dark-bg: #222222;
   --light-bg: #333333;
   --yellow: #bac964;
+  --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+} */
+:root {
+  --white: #862B0D;
+  --dark-gray: #A78295;
+  --light-gray: #808080;
+  --dark-bg: #B5C99A;
+  --light-bg: #FFF9C9;
+  --yellow: #FFC95F;
   --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
 }
 
@@ -52,8 +61,8 @@ section {
 /* home */
 .home {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("image/bala12.jpg");
+  /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("image/bala12.jpg"); */
   filter: grayscale(100%);
   background-size: cover;
   background-position: center;
