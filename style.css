@@ -12,7 +12,7 @@
 }
 
 /* css variables */
-/* :root {
+:root {
   --white: #fff;
   --dark-gray: #ababab;
   --light-gray: #808080;
@@ -20,8 +20,8 @@
   --light-bg: #333333;
   --yellow: #bac964;
   --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
-} */
-:root {
+}
+/* :root {
   --white: #862B0D;
   --dark-gray: #A78295;
   --light-gray: #808080;
@@ -29,7 +29,7 @@
   --light-bg: #FFF9C9;
   --yellow: #1A5D1A;
   --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
-}
+} */
 
 html {
   font-size: 62.5%;
