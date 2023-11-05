@@ -61,8 +61,8 @@ section {
 /* home */
 .home {
   height: 100vh;
-  /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("image/bala12.jpg"); */
+   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("image/background.jpg"); 
   filter: grayscale(100%);
   background-size: cover;
   background-position: center;
